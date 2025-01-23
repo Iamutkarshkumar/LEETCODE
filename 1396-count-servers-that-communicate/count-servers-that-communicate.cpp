@@ -1,25 +1,26 @@
 class Solution {
 public:
-    int countServers(const vector<vector<int>>& grid) {
-        vector<int> rowCounts(size(grid[0]), 0), colCounts(size(grid), 0);
-
-        // Count servers in each row and each column
-        for (int row = 0; row < size(grid); ++row)
-            for (int col = 0; col < size(grid[0]); ++col)
-                if (grid[row][col]) {
-                    rowCounts[col]++;
-                    colCounts[row]++;
+    int countServers(vector<vector<int>>& grid) {
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<int> row(n,0);
+        vector<int> col(m,0);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]){
+                    row[j]++;
+                    col[i]++;
                 }
-
-        int communicableServersCount = 0;
-
-        // Count servers that can communicate (in the same row or column)
-        for (int row = 0; row < size(grid); ++row)
-            for (int col = 0; col < size(grid[0]); ++col)
-                if (grid[row][col])
-                    communicableServersCount +=
-                        rowCounts[col] > 1 || colCounts[row] > 1;
-
-        return communicableServersCount;
+            }    
+        }
+        int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]){
+                    count+=row[j]>1 or col[i]>1;
+                }
+            }
+        }
+        return count;
     }
 };
