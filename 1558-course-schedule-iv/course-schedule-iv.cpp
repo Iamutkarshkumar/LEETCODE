@@ -1,9 +1,7 @@
 //  (Kahn's Algorithm)
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses,
-                                     vector<vector<int>>& prerequisites,
-                                     vector<vector<int>>& queries) {
+    vector<bool> checkIfPrerequisite(int numCourses,vector<vector<int>>&prerequisites,vector<vector<int>>& queries) {
         unordered_map<int, vector<int>> adj;
         vector<int> indegree(numCourses, 0);
         for (auto &edge : prerequisites) {
