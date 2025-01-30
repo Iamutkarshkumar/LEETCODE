@@ -12,7 +12,7 @@ public:
         }
         int n=word.length();
         if(cap==n or small==n) return true;
-        if(cap==1 and small==n-1 and (word[0]-'0'>=i and word[0]-'0'<=j)) return true;
+        if(cap==1 and (word[0]-'0'>=i and word[0]-'0'<=j)) return true;
         return false;
     }
 };
