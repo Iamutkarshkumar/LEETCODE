@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int tupleSameProduct(vector<int>& nums) {
         unordered_map<long long,long long> mp;
         int n=nums.size();
