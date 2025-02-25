@@ -1,3 +1,4 @@
+#define mod 1000000007
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
@@ -5,14 +6,14 @@ public:
         for(auto ele: arr){
             ps+=ele;
             if(ps%2==0){
-                ans = (ans+o)%1000000007;
+                ans = (ans+o)%mod;
                 e++;
             }
             else{
-                ans = (ans+e)%1000000007;
+                ans = (ans+e)%mod;
                 o++;
             }
         }
-        return ans%1000000007;;
+        return ans%mod;
     }
 };
