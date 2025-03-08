@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int countBlack(string x){
-        int count=0;
-        for(auto ele: x){
-            if(ele=='B') count++;
-        }
-        return count;
-    }
     int minimumRecolors(string blocks, int k) {
-        int n=blocks.size();
-        int ans=INT_MAX;
-        for (int i=0;i<=n-k;i++){
-            string window = blocks.substr(i, k);
-            int blacks = countBlack(window);
-            int recolors = k - blacks;
-            ans = min(ans, recolors);
+        int left = 0, numWhites = 0, numRecolors = INT_MAX;
+        for (int right = 0; right < blocks.size(); right++) {
+            if (blocks[right] == 'W') {
+                numWhites++;
+            }
+            if (right - left + 1 == k) {
+                numRecolors = min(numRecolors, numWhites);
+                if (blocks[left] == 'W') numWhites--;
+                left++;
+            }
         }
-        return ans;
+        return numRecolors;
     }
 };
