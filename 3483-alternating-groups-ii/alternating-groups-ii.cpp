@@ -4,7 +4,7 @@ public:
         int n=colors.size();
         int N = n + (k-1);
         int ans=0;
-        for(int i=0;i<k-1;i++) colors.push_back(colors[i]);
+        for(int i=0;i<k-1;i++) colors.push_back(colors[i]);//to handle circular array
 
         int i=0,j=1;
         while(j<N){
