@@ -1,9 +1,8 @@
 class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
-        int mx=INT_MIN;
-        for(auto ele: candies) mx = max(mx,ele);
-        int l=1,r=mx;
+        int mx=INT_MIN;for(auto ele: candies) mx = max(mx,ele);
+        long long l=1,r=mx;
         long long ans=0;
         while(l<=r){
             long long m = l+(r-l)/2;
