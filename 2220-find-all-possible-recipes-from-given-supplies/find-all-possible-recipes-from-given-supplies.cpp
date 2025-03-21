@@ -1,49 +1,38 @@
 class Solution {
 public:
-    vector<string> findAllRecipes(vector<string>& recipes,
-                                  vector<vector<string>>& ingredients,
-                                  vector<string>& supplies) {
-        // Track available ingredients and recipes
-        unordered_set<string> available(supplies.begin(), supplies.end());
-
-        // Queue to process recipe indices
-        queue<int> recipeQueue;
-        for (int idx = 0; idx < recipes.size(); ++idx) {
-            recipeQueue.push(idx);
-        }
-
-        vector<string> createdRecipes;
-        int lastSize = -1;
-
-        // Continue while we keep finding new recipes
-        while (static_cast<int>(available.size()) > lastSize) {
-            lastSize = available.size();
-            int queueSize = recipeQueue.size();
-
-            // Process all recipes in current queue
-            while (queueSize-- > 0) {
-                int recipeIdx = recipeQueue.front();
-                recipeQueue.pop();
-                bool canCreate = true;
-
-                // Check if all ingredients are available
-                for (string& ingredient : ingredients[recipeIdx]) {
-                    if (!available.count(ingredient)) {
-                        canCreate = false;
+    vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
+        unordered_set<string> s(supplies.begin(), supplies.end());
+        int n = recipes.size();
+        vector<bool> made(n, false);
+        bool added = true;
+        
+        // Process recipes until no new recipe can be made.
+        while (added) {
+            added = false;
+            for (int i = 0; i < n; i++) {
+                if (made[i]) continue; // Skip if already made.
+                
+                bool canMake = true;
+                for (const auto &ing : ingredients[i]) {
+                    if (s.find(ing) == s.end()) {
+                        canMake = false;
                         break;
                     }
                 }
-
-                if (!canCreate) {
-                    recipeQueue.push(recipeIdx);
-                } else {
-                    // Recipe can be created - add to available items
-                    available.insert(recipes[recipeIdx]);
-                    createdRecipes.push_back(recipes[recipeIdx]);
+                if (canMake) {
+                    s.insert(recipes[i]);
+                    made[i] = true;
+                    added = true;
                 }
             }
         }
-
-        return createdRecipes;
+        
+        // Preserve the input order.
+        vector<string> ans;
+        for (int i = 0; i < n; i++) {
+            if (made[i])
+                ans.push_back(recipes[i]);
+        }
+        return ans;
     }
 };
