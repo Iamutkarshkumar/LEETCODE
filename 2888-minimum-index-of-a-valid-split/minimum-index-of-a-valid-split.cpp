@@ -1,21 +1,42 @@
 class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
-        unordered_map<int,int> mp1;
-        unordered_map<int,int> mp2;
-        for(auto ele: nums) mp2[ele]++;
+        int n = nums.size();
 
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            int x=nums[i];
+        int maj   = -1;
+        int count = 0;
 
-            mp1[x]++;
-            mp2[x]--;
+        for(int i = 0; i < n; i++) {
+            if(count == 0) {
+                maj = nums[i];
+                count = 1;
+            } else if(nums[i] == maj) {
+                count++;
+            } else {
+                count--;
+            }
+        }
 
-            int n1=i+1;
-            int n2=n-i-1;
+        int majCount = 0;
+        for(int &num : nums) {
+            if(num == maj) {
+                majCount++;
+            }
+        }
 
-            if(mp1[x]*2>n1 and mp2[x]*2>n2) return i;
+        count = 0;
+        for(int i = 0; i < n; i++) {
+            if(nums[i] == maj) {
+                count++;
+            }
+
+            int remainingCount = majCount - count;
+            int n1 = i+1;
+            int n2 = n-i-1;
+
+            if(count*2 > n1 && remainingCount*2 > n2) {
+                return i;
+            }
         }
         return -1;
     }
