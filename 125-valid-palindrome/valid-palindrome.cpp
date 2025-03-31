@@ -15,11 +15,11 @@ public:
             else if(ele-'a'>=-49 and ele-'a'<=-40) help.push_back(ele);
             else continue;
         }
-        string x=help;
-        reverse(begin(x),end(x));
-        int n=x.length();
+        // string x=help;
+        // reverse(begin(x),end(x));
+        int n=help.length();
         for(int i=0;i<n/2;i++){
-            if(help[i]!=x[i]) return false;
+            if(help[i]!=help[n-i-1]) return false;
         }
         return true;
     }
