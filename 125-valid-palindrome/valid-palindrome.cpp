@@ -1,12 +1,6 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        // Here are the ASCII values:
-        //     'A' is 65
-        //     'Z' is 90
-        //     'a' is 97
-        //     'z' is 122
-        //     Whitespace (space) is 32
         int n=s.length();
         int i=0,j=n-1;
         while(i<j){
