@@ -16,17 +16,8 @@ public:
                 break;
             }
         }
-        for(int i=0;i<minn.length();i++){
-            if(maxx[i]==a){
-                maxx[i]='9';
-            }
-        }
-        for(int i=0;i<minn.length();i++){
-            if(minn[i]==b){
-                minn[i]='0';
-            }
-        }
-        cout<<maxx<<" "<<minn;
+        replace(maxx.begin(), maxx.end(), a, '9');
+        replace(minn.begin(), minn.end(), b, '0');
         return stoi(maxx)-stoi(minn);
     }
 };
