@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
