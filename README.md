@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
