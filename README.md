@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
