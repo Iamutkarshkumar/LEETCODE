@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Counting
