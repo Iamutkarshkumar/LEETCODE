@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
