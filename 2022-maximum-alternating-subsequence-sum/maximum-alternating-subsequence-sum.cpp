@@ -1,6 +1,6 @@
 class Solution {
 public:
-    typedef long long ll;
+    using ll=long long;
     int n;
     ll t[1000001][2];
     ll solve(int idx,vector<int>& nums,bool flag){
