@@ -10,11 +10,11 @@ public:
         int value=events[idx][2];
 
         int skip=solve(events,idx+1,k);
-
         int j=idx+1;
         for(;j<n;j++){
             if(events[j][0]>events[idx][1]) break;
         }
+
         int take=value+solve(events,j,k-1);
 
         return t[idx][k]=max(skip,take);
