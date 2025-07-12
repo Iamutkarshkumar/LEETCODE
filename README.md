@@ -113,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
