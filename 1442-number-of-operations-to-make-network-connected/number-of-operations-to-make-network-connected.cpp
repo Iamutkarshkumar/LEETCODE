@@ -27,13 +27,10 @@ public:
             rank[i]=0;
             parent[i]=i;
         }
-
+        int components=n;
         for(auto ele: connections){
-            if(find(ele[0])!=find(ele[1])) Union(ele[0],ele[1]);
+            if(find(ele[0])!=find(ele[1])){ Union(ele[0],ele[1]);components--;}
         }
-        unordered_set<int> s;
-        for(int i=0;i<n;i++) s.insert(find(i));
-        return s.size()-1;
-
+        return components-1;
     }
 };
