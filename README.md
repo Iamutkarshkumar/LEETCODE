@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## String
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Linked List
 |  |
