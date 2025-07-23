@@ -10,8 +10,9 @@ public:
             que.pop();
             for(auto &v: adj[u]){
                 if(!visited[v]){
-                    que.push(v);
-                    visited[v]=true;
+                    // que.push(v);
+                    // visited[v]=true;
+                    bfs(adj,v,visited);
                 }
             }
         }
