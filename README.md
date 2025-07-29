@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Simulation
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
