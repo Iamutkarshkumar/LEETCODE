@@ -6,7 +6,6 @@ public:
         for(int i=1 ; i<=n ; i++){
             vector<int> a(i);
             v.push_back(a);
-            
         }
         for(int i=0  ; i<n ; i++){
             for(int j=0 ; j<=i ; j++){
@@ -14,8 +13,6 @@ public:
                 else v[i][j]=v[i-1][j]+v[i-1][j-1];
             }
         }
-        return v;
-        
-        
+        return v;   
     }
 };
