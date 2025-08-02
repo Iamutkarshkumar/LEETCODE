@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
