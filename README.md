@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3429-special-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3429-special-array-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
@@ -369,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
