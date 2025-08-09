@@ -12,6 +12,21 @@ public:
                     dp[i][j] = max(dp[i-1][j],dp[i][j-1]);
             }
         }
+        string s="";
+        int i=m,j=n;
+        while(i>0 and j>0){
+            if(s1[i-1]==s2[j-1]){
+                s.push_back(s1[i-1]);
+                i--;
+                j--;
+            }
+            else{
+                if(dp[i-1][j]>dp[i][j-1]) i--;
+                else j--;
+            }
+        }
+        reverse(s.begin(),s.end());
+        cout<<s;
         return dp[m][n];
     }
 };
