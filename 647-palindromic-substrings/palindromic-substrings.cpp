@@ -1,10 +1,12 @@
 class Solution {
 public:
+    unordered_map<string,int> dp;
     bool checkPalindrome(int i, int j,string& s){
         int len=j-i+1;
         string x = s.substr(i,len);
-        for(int i=0;i<len/2;i++) if(x[i]!=x[len-i-1]) return false;
-        return true;
+        if(dp.count(x)) return dp[x];
+        for(int i=0;i<len/2;i++) if(x[i]!=x[len-i-1]) return dp[x]=false;
+        return dp[x]=true;
     }
     int countSubstrings(string s) {
         int n=s.length();
