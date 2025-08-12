@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
