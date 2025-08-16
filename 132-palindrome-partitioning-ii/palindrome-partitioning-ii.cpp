@@ -11,13 +11,15 @@ public:
                 else dp[i][j] = (s[i]==s[j] and dp[i+1][j-1]);
             }
         }
-        vector<int> cuts(n,INT_MAX);
+        vector<int> dp1(n,INT_MAX);
         for(int i=0;i<n;i++){
-            if(dp[0][i]) {cuts[i]=0; continue;}
-            for(int j=0;j<i;j++){
-                if(dp[j+1][i]) cuts[i]=min(cuts[i],cuts[j]+1);
+            if(dp[0][i]) dp1[i]=0;
+            else{
+                for(int k=0;k<i;k++){
+                    if(dp[k+1][i] and 1+dp1[k] < dp1[i]) dp1[i]=1+dp1[k];
+                }
             }
         }
-        return cuts[n-1];
+        return dp1[n-1];
     }
 };
