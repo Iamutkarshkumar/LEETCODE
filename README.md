@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1706-min-cost-to-connect-all-points) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
