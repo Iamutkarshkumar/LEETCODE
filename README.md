@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
