@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-transform-string">Minimum Operations to Transform String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> consisting only of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-transform-string">3999. Minimum Operations to Transform String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting only of lowercase English letters.</p>
 
 <p>You can perform the following operation any number of times (including zero):</p>
 
