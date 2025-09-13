@@ -2,10 +2,7 @@ class Solution {
 public:
     bool isvowel(int i){
         char c=i+'a';
-        if(c=='a' or c=='e' or c=='i' or c=='o' or c=='u'){
-            return true;
-        }
-        return false;
+        return (c=='a' or c=='e' or c=='i' or c=='o' or c=='u');
     }
     int maxFreqSum(string s) {
         vector<int> freq(26);
