@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0135-candy) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
