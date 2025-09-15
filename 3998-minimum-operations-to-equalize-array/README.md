@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-equalize-array">3998. Minimum Operations to Equalize Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-equalize-array">Minimum Operations to Equalize Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>In one operation, choose any subarray <code>nums[l...r]</code> (<code>0 &lt;= l &lt;= r &lt; n</code>) and <strong>replace</strong> each element in that subarray with the <strong>bitwise AND</strong> of all elements.</p>
 
