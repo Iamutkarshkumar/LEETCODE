@@ -1,12 +1,18 @@
 class Solution {
 public:
     int minFlips(int a, int b, int c) {
-        int x = (a | b) ^ c;                      // mismatched positions (count 1 each)
-        int ans = __builtin_popcount(x);         // count of mismatches
-        ans += __builtin_popcount(a & b & (~c)); // add extra flip for positions where a==1 and b==1 but c==0
-        return ans;
+        return __builtin_popcount((a | b) ^ c) + __builtin_popcount(a & b & (~c));
     }
 };
+// class Solution {
+// public:
+//     int minFlips(int a, int b, int c) {
+//         int x = (a | b) ^ c;                      // mismatched positions (count 1 each)
+//         int ans = __builtin_popcount(x);         // count of mismatches
+//         ans += __builtin_popcount(a & b & (~c)); // add extra flip for positions where a==1 and b==1 but c==0
+//         return ans;
+//     }
+// };
 // class Solution {
 // public:
 //     int minFlips(int a, int b, int c) {
