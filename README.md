@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
