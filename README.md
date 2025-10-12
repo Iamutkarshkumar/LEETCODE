@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
@@ -158,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -534,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
