@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations">1747. Lexicographically Smallest String After Applying Operations</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of <strong>even length</strong> consisting of digits from <code>0</code> to <code>9</code>, and two integers <code>a</code> and <code>b</code>.</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations">Lexicographically Smallest String After Applying Operations</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> of <strong>even length</strong> consisting of digits from <code>0</code> to <code>9</code>, and two integers <code>a</code> and <code>b</code>.</p>
 
 <p>You can apply either of the following two operations any number of times and in any order on <code>s</code>:</p>
 
