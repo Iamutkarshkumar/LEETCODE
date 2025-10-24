@@ -4,6 +4,7 @@ public:
         vector<int> v(10);
         string s=to_string(i);
         for(int idx=0;idx<s.length();idx++){
+            if(s[idx]=='0') return false;//0 zero baar aana chahiye 
             v[s[idx]-'0']++;
         }
         for(int j=0;j<10;j++){
