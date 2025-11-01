@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Breadth-First Search
 |  |
 | ------- |
