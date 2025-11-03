@@ -23,22 +23,3 @@ public:
         return ans-sum;
     }
 };
-// class Solution {
-// public:
-//     int minCost(string colors, vector<int>& neededTime) {
-//         unordered_map<char,int> mp;
-//         int n=colors.length();
-//         for(int i=0;i<n;i++){
-//             if(mp.count(colors[i])==0) mp[colors[i]]=neededTime[i];
-//             else{
-//                 int x=neededTime [i];
-//                 int y=mp[colors[i]];
-//                 mp[colors[i]]=max(x,y);
-//             }
-//         }
-//         int sum=0;
-//         for(auto ele: neededTime) sum+=ele;
-//         for(auto ele: mp) sum-=ele.second;
-//         return sum;
-//     }
-// };
