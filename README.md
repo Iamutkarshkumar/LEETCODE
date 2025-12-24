@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
