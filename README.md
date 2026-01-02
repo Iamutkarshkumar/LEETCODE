@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
