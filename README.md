@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
