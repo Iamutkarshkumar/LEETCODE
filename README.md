@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
