@@ -8,14 +8,14 @@ public:
     }
     long long minimumTime(vector<int>& time, int totalTrips) {
         ll n=time.size();
-        ll maxEle=*max_element(begin(time),end(time));
+        ll minEle=*min_element(begin(time),end(time));
         
-        ll l=0,r=maxEle*totalTrips;
+        ll l=0,r=minEle*totalTrips;
 
-        while(l<=r){
+        while(l<r){
             ll m = l+(r-l)/2;
             ll trips=countTrips(time,m);
-            if(trips>=totalTrips) r=m-1;
+            if(trips>=totalTrips) r=m;
             else l=m+1;
         }
         return l;
