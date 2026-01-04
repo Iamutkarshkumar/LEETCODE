@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1390-four-divisors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
