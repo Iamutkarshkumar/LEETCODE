@@ -1,16 +1,15 @@
-using ll=long long;
 class Solution {
 public:
     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
-        ll n=spells.size();
+        int n=spells.size();
+        int m=potions.size();
         vector<int> ans(n);
+
         sort(begin(potions),end(potions));
-        
         for(int i=0;i<n;i++){
-            ll a=spells[i];
-            ll x = (success+a-1)/a; // ceil
-            ll idx=lower_bound(begin(potions),end(potions),x)-begin(potions);
-            ans[i]=(potions.size()-idx);
+            double need = ceil((double)success/(double)spells[i]);
+            int idx=lower_bound(potions.begin(),potions.end(),need)-potions.begin();
+            ans[i]=m-idx;
         }
         return ans;
     }
