@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
