@@ -23,7 +23,7 @@ public:
     int minimizeArrayValue(vector<int>& nums) {
         int n = nums.size();
         
-        int maxL = 0;
+        int maxL = *min_element(begin(nums), end(nums));;
         int maxR = *max_element(begin(nums), end(nums));
         
         int result;
