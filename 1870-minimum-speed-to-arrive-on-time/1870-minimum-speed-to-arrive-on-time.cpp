@@ -12,7 +12,7 @@ public:
     }
     int minSpeedOnTime(vector<int>& dist, double hour) {
         //time = dist/speed
-        ll l= 1,h=10e7;
+        ll l= 1,h=1e7;
         ll ans=-1;
         while(l<=h){
             ll m =l+(h-l)/2;
