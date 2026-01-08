@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2169-simple-bank-system) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
