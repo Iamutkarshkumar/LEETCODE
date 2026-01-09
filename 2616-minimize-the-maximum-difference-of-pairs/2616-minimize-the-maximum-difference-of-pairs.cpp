@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    int countPairs(vector<int>& nums, int m){
+    bool countPairs(vector<int>& nums, int m,int p){
         int count=0;
         int i=0;
         while(i+1<n){
@@ -11,7 +11,7 @@ public:
             }
             else i++;
         }
-        return count;
+        return count>=p;
     }
     int minimizeMax(vector<int>& nums, int p) {
         sort(begin(nums),end(nums));
@@ -20,8 +20,7 @@ public:
         int ans;
         while(l<=r){
             int m=l+(r-l)/2;
-            int count=countPairs(nums,m);
-            if(count>=p){
+            if(countPairs(nums,m,p)){
                 ans=m;
                 r=m-1;
             }
