@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -803,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
