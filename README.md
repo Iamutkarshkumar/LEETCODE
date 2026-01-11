@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0135-candy) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Ordered Set
