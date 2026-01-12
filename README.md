@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bitmask
 |  |
