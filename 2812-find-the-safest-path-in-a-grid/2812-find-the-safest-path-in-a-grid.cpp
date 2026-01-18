@@ -14,7 +14,7 @@ public:
             int y=q.front().second;
             q.pop();
             if(x==n-1 and y==n-1) return true;
-            for(vector<int>& dir : directions){
+            for(auto& dir: directions){
                 int newX=x+dir[0];
                 int newY=y+dir[1];
                 if(newX>=0 and newX<n and newY>=0 and newY<n and visited[newX][newY]==false){
@@ -52,7 +52,7 @@ public:
                 int y=q.front().second;
                 q.pop();
                 nearestThief[x][y]=lvl;
-                for(vector<int>& dir : directions){
+                for(auto& dir: directions){
                     int newX = x+dir[0];
                     int newY = y+dir[1];
 
