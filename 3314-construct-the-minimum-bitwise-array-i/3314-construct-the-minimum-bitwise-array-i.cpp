@@ -6,13 +6,13 @@ public:
         for(int i=0;i<n;i++){
             int target=nums[i];
             int x=-1;
-            for(int j=1;j<=target;j++){
-                if((j | (j+1))==target){
-                    x=j;;
-                    break;
-                }
+            for(int j=1;j<32;j++){
+                if((nums[i] & (1<<j))>0) continue;
+                x=(nums[i]^(1<<(j-1)));
+                break;
             }
-            ans.push_back(x);
+            if(nums[i]==2) ans.push_back(-1);
+            else ans.push_back(x);
         }
         return ans;
     }
