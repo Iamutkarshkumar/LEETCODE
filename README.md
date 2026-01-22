@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
