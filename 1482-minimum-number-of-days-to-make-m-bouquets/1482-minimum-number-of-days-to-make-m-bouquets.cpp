@@ -8,11 +8,11 @@ public:
         ll counter=0;
         while(i<bloomDay.size()){
             if(bloomDay[i]<=mid) counter++;
+            else counter=0;
             if(counter==k){
                 bouquetsCount++;
                 counter=0;
             }
-            if(bloomDay[i]>mid) counter=0;
             i++;
         }
         return bouquetsCount>=m;
