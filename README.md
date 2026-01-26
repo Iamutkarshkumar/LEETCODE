@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
