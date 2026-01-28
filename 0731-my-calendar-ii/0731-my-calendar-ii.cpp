@@ -1,14 +1,14 @@
 class MyCalendarTwo {
 public:
+    map<int,int> mp;
     MyCalendarTwo() {
         
     }
-    map<int,int> mp;
     bool book(int startTime, int endTime) {
         mp[startTime]+=1;
         mp[endTime]-=1;
         int count=0;
-        for(auto ele: mp){
+        for(auto &ele: mp){
             count+=ele.second;
             if(count>2){
                 mp[startTime]--;
