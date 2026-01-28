@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3429-special-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3449-maximize-the-minimum-game-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3449-maximize-the-minimum-game-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3449-maximize-the-minimum-game-score) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3449-maximize-the-minimum-game-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
