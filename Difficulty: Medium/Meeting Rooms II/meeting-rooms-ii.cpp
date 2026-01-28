@@ -2,19 +2,37 @@
 class Solution {
   public:
     int minMeetingRooms(vector<int> &start, vector<int> &end) {
-        vector<pair<int,int>> v;
-        for(auto ele: start) v.push_back(make_pair(ele,1));
-        for(auto ele: end) v.push_back(make_pair(ele,-1));
-        sort(v.begin(),v.end());
-        
+        map<int,int> mp;
+        for(int i=0;i<start.size();i++){
+            mp[start[i]]++;
+            mp[end[i]]--;
+        }
         int ans=0,curr=0;
-        for(auto ele: v){
+        for(auto ele: mp){
             curr+=ele.second;
             ans=max(ans,curr);
         }
         return ans;
     }
 };
+// class Solution {
+//   public:
+//     int minMeetingRooms(vector<int> &start, vector<int> &end) {
+//         vector<pair<int,int>> v;
+//         for(int i=0;i<start.size();i++){
+//             v.push_back(make_pair(start[i],1));
+//             v.push_back(make_pair(end[i],-1));
+//         } 
+//         sort(v.begin(),v.end());
+        
+//         int ans=0,curr=0;
+//         for(auto ele: v){
+//             curr+=ele.second;
+//             ans=max(ans,curr);
+//         }
+//         return ans;
+//     }
+// };
 //approach 2: Difference array technique
 // class Solution {
 //   public:
