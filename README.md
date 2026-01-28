@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
