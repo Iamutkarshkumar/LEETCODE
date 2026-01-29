@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
