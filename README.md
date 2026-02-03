@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [1943-describe-the-painting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1943-describe-the-painting) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1895-largest-magic-square) |
+| [1943-describe-the-painting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1943-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1943-describe-the-painting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1943-describe-the-painting) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2169-simple-bank-system) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1943-describe-the-painting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
