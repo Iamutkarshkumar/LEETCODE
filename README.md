@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3355-zero-array-transformation-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3379-transformed-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3355-zero-array-transformation-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
