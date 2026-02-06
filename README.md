@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2381-shifting-letters-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2381-shifting-letters-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2381-shifting-letters-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
