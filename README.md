@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-trionic-array-ii) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Dynamic Programming
 |  |
