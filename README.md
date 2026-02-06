@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3827-count-monobit-integers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3827-count-monobit-integers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3827-count-monobit-integers) |
 ## Two Pointers
 |  |
 | ------- |
