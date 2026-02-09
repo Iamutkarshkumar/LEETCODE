@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1001,11 +1004,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1033,4 +1038,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
