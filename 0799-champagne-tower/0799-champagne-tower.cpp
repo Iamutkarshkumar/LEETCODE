@@ -4,7 +4,7 @@ public:
         vector<vector<double>> dp(101,vector<double>(101,0.0));
         dp[0][0]=(double)poured;
         for(int i=0;i<=query_row;i++){
-            for(int j=0;j<=query_glass;j++){
+            for(int j=0;j<=i;j++){
                 double extra=(dp[i][j]-1)/2.0;
                 if(extra>0){
                     dp[i+1][j]+=extra;
