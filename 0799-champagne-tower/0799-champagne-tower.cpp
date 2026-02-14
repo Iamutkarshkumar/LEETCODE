@@ -1,18 +1,35 @@
 class Solution {
 public:
-
-    double solve(int i,int j,int poured,vector<vector<double>>& dp){
-        if(i<0 or j<0 or i<j) return 0.0;
-        if(i==0 and j==0) return poured;
-        if(dp[i][j]!=-1) return dp[i][j];
-        double left_up=(solve(i-1,j-1,poured,dp)-1)/2.0;
-        double right_up=(solve(i-1,j,poured,dp)-1)/2.0;
-        if(left_up<0) left_up=0;
-        if(right_up<0) right_up=0;
-        return dp[i][j]=left_up+right_up;
-    }
     double champagneTower(int poured, int query_row, int query_glass) {
-        vector<vector<double>> dp(query_row+1,vector<double>(query_glass+1,-1));
-        return min(1.0, solve(query_row,query_glass,poured,dp));
+        vector<vector<double>> dp(101,vector<double>(101,0.0));
+        dp[0][0]=(double)poured;
+        for(int i=0;i<=query_row;i++){
+            for(int j=0;j<=query_glass;j++){
+                double extra=(dp[i][j]-1)/2.0;
+                if(extra>0){
+                    dp[i+1][j]+=extra;
+                    dp[i+1][j+1]+=extra;
+                }
+            }
+        }
+        return min(1.0,dp[query_row][query_glass]);
+        
     }
 };
+// class Solution {
+// public:
+//     double solve(int i,int j,int poured,vector<vector<double>>& dp){
+//         if(i<0 or j<0 or i<j) return 0.0;
+//         if(i==0 and j==0) return poured;
+//         if(dp[i][j]!=-1) return dp[i][j];
+//         double left_up=(solve(i-1,j-1,poured,dp)-1)/2.0;
+//         double right_up=(solve(i-1,j,poured,dp)-1)/2.0;
+//         if(left_up<0) left_up=0;
+//         if(right_up<0) right_up=0;
+//         return dp[i][j]=left_up+right_up;
+//     }
+//     double champagneTower(int poured, int query_row, int query_glass) {
+//         vector<vector<double>> dp(query_row+1,vector<double>(query_glass+1,-1));
+//         return min(1.0, solve(query_row,query_glass,poured,dp));
+//     }
+// };
