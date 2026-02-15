@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
