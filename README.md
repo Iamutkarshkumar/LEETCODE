@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
