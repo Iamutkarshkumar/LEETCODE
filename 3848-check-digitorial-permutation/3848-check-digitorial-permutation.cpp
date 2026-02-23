@@ -1,20 +1,16 @@
 using ll=long long;
 class Solution {
 public:
-    ll fact(ll n){
-        if(n<=1) return 1;
-        ll ans=1;
-        for(ll i=1;i<=n;i++) ans*=i;
-        return ans;
-    }
     bool isDigitorialPermutation(int n) {
+        vector<int> dp(10,1);
+        for(int i=1;i<10;i++) dp[i]=dp[i-1]*i;
         int ans=0;
         string s;
         s=to_string(n);
         sort(begin(s),end(s));
         int x=n;
         while(x){
-            ans+=fact(x%10);
+            ans+=dp[(x%10)];
             x/=10;
         }
         string r=to_string(ans);
