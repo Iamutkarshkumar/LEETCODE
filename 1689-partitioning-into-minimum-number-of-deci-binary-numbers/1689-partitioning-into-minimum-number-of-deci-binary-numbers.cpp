@@ -3,7 +3,7 @@ public:
     int minPartitions(string n) {
         int ans=0;
         for(auto ele: n){
-            ans=max(ele-'0',ans);
+            if(ele-'0'>ans) ans=ele-'0';
         }
         return ans;
     }
