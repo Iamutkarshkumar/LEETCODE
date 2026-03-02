@@ -1,29 +1,37 @@
 class Solution {
 public:
-    bool help(vector<int>& v,int req){
-        int n=v.size();
-        int count=0;
-        for(int i=n-1;i>=0;i--){
-            if(v[i]==0) count++;
-            else break;
-        }
-        return (count>=req);
-    }
     int minSwaps(vector<vector<int>>& grid) {
-        int ans = 0;
-        int n = grid.size();
-        int i=0;
-        while(i<n){
+        int n=grid.size();
+        vector<int> zeros(n);
+
+        // Step 1: Precompute trailing zeros
+        for(int i=0;i<n;i++){
+            int count=0;
+            for(int j=n-1;j>=0;j--){
+                if(grid[i][j]==0) count++;
+                else break;
+            }
+            zeros[i]=count;
+        }
+
+        int ans=0;
+
+        // Step 2: Greedy placement
+        for(int i=0;i<n;i++){
+            int req=n-1-i;
             int j=i;
-            while(j<n and !help(grid[j],n-1-i)) j++;
+
+            while(j<n && zeros[j]<req) j++;
             if(j==n) return -1;
+
+            // Bubble up
             while(j>i){
-                swap(grid[j],grid[j-1]);
+                swap(zeros[j],zeros[j-1]);
                 ans++;
                 j--;
             }
-            i++;
         }
+
         return ans;
     }
 };
