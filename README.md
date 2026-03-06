@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -996,10 +998,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -1073,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
