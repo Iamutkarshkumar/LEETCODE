@@ -1,0 +1,39 @@
+class Solution {//same as 3479. Fruits Into Baskets III
+public:
+    void buildSegmentTree(int i,int l,int r,vector<int>& segmentTree,vector<int>& baskets){
+        if(l==r){
+            segmentTree[i]=baskets[l];
+            return;
+        }
+        int mid=l+(r-l)/2;
+        buildSegmentTree(2*i+1,l,mid,segmentTree,baskets);
+        buildSegmentTree(2*i+2,mid+1,r,segmentTree,baskets);
+        segmentTree[i]=max(segmentTree[2*i+1],segmentTree[2*i+2]);
+    }
+    bool query(int i,int l,int r,vector<int>& segmentTree,int fruit){
+        if(segmentTree[i]<fruit) return false;
+        if(l==r){
+            segmentTree[i]=-1;
+            return true;
+        }
+        int mid=l+(r-l)/2;
+        bool placed=false;
+        if(segmentTree[2*i+1]>=fruit){
+            placed=query(2*i+1,l,mid,segmentTree,fruit);
+        }
+        else placed=query(2*i+2,mid+1,r,segmentTree,fruit);
+        segmentTree[i]=max(segmentTree[2*i+1],segmentTree[2*i+2]);
+        return placed;
+    }
+    int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
+        int n=baskets.size();
+        vector<int> segmentTree(4*n,-1);
+
+        buildSegmentTree(0,0,n-1,segmentTree,baskets);
+        int unplaced=0;
+        for(auto& fruit: fruits){
+            if(query(0,0,n-1,segmentTree,fruit)==false) unplaced++;
+        }
+        return unplaced;
+    }
+};
