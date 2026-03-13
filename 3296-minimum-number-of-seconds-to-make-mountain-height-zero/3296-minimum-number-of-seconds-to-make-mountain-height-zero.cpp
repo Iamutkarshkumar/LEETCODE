@@ -5,7 +5,7 @@ public:
         ll l=1,r=h,ans=0;
         while(l<=r){
             ll m=l+(r-l)/2;
-            if(((m*(m+1))/2)*x<=mid){
+            if(((m*(m+1))/2)<=mid/x){
                 ans=m;
                 l=m+1;
             }
