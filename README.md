@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
