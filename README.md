@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
