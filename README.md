@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2090-k-radius-subarray-averages](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
