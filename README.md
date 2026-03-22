@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0312-burst-balloons) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0744-network-delay-time) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Counting Sort
@@ -1201,5 +1205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
