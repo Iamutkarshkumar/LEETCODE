@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
