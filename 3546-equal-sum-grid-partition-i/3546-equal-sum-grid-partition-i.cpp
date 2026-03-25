@@ -3,28 +3,25 @@ class Solution {
 public:
     bool canPartitionGrid(vector<vector<int>>& grid) {
         int m=grid.size(),n=grid[0].size();
-        vector<ll> row,col;
+        vector<ll> row(m,0),col(n,0);
+        ll total=0;
         for(int i=0;i<m;i++){
-            ll sum=0;
             for(int j=0;j<n;j++){
-                sum+=grid[i][j];
+                row[i]+=grid[i][j];
+                col[j]+=grid[i][j];
+                total+=grid[i][j];
             }
-            row.push_back(sum);
         }
-        for(int j=0;j<n;j++){
-            ll sum=0;
-            for(int i=0;i<m;i++){
-                sum+=grid[i][j];
-            }
-            col.push_back(sum);
+        if(total%2!=0) return false;
+        ll up=0;
+        for(int i=0;i<m-1;i++){
+            up+=row[i];
+            if(up==total-up) return true;
         }
-        for(int i=1;i<row.size();i++) row[i]+=row[i-1];
-        for(int i=1;i<col.size();i++) col[i]+=col[i-1];
-        for(int i=0;i<row.size();i++){
-            if(row[i]==row[row.size()-1]-row[i]) return true;
-        }
-        for(int i=0;i<col.size();i++){
-            if(col[i]==col[col.size()-1]-col[i]) return true;
+        ll left=0;
+        for(int i=0;i<n-1;i++){
+            left+=col[i];
+            if(left==total-left) return true;
         }
         return false;
     }
