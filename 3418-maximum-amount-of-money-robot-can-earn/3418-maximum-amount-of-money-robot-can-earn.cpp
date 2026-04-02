@@ -21,7 +21,7 @@ public:
 
         int ans=-1e9;
         
-        for(auto dir: directions){
+        for(auto &dir: directions){
             int ni=i+dir.first,nj=j+dir.second;
             if(coins[i][j]>=0) ans=max(ans,coins[i][j]+solve(ni,nj,k,coins,dp));
             else{
