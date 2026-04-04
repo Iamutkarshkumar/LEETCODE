@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2953-count-complete-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2953-count-complete-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2953-count-complete-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2953-count-complete-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
