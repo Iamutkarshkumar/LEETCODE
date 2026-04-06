@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1094-car-pooling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
