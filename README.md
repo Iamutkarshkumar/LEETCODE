@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2169-simple-bank-system) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2169-simple-bank-system) |
 ## Topological Sort
 |  |
