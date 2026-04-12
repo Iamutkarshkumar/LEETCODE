@@ -1,6 +1,16 @@
 class Solution {
 public:
     int dp[305][27][27];
+    // Characters are placed like:
+    // A B C D E F
+    // G H I J K L
+    // M N O P Q R
+    // S T U V W X
+    // Y Z
+
+    // So:
+    // row = (c - 'A') / 6
+    // col = (c - 'A') % 6
     pair<int,int> getRowCol(int c){
         int row=c/6;
         int col=c%6;
