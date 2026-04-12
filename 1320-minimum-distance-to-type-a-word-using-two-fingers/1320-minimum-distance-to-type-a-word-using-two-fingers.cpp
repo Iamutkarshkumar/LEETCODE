@@ -1,29 +1,27 @@
 class Solution {
 public:
-    int dp[301][27][27];
-
-    pair<int,int> getPos(int c){
-        return {c/6,c%6};
+    int dp[305][27][27];
+    pair<int,int> getRowCol(int c){
+        int row=c/6;
+        int col=c%6;
+        return {row,col};
     }
-
+    // a → current position of finger (letter index 0–25)
+    // b → next letter you want to type
+    // 26 → special value → finger not placed yet
     int dist(int a,int b){
-        if(a==26 || b==26) return 0; // not used yet
-        auto p1=getPos(a),p2=getPos(b);
+        if(a==26 or b==26) return 0;
+        auto p1=getRowCol(a),p2=getRowCol(b);
         return abs(p1.first-p2.first)+abs(p1.second-p2.second);
     }
-
-    int f(int i,int f1,int f2,string &w){
-        if(i==w.size()) return 0;
-        if(dp[i][f1][f2]!=-1) return dp[i][f1][f2];
-
-        int curr=w[i]-'A';
-
-        int use1 = dist(f1,curr) + f(i+1,curr,f2,w);
-        int use2 = dist(f2,curr) + f(i+1,f1,curr,w);
-
-        return dp[i][f1][f2]=min(use1,use2);
+    int f(int i,int f1_pos,int f2_pos,string &word){
+        if(i==word.size()) return 0;
+        if(dp[i][f1_pos][f2_pos]!=-1) return dp[i][f1_pos][f2_pos];
+        int curr=word[i]-'A';
+        int use1=dist(f1_pos,curr)+f(i+1,curr,f2_pos,word);
+        int use2=dist(f2_pos,curr)+f(i+1,f1_pos,curr,word);
+        return dp[i][f1_pos][f2_pos]=min(use1,use2);
     }
-
     int minimumDistance(string word) {
         memset(dp,-1,sizeof(dp));
         return f(0,26,26,word);
