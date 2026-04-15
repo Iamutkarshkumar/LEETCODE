@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2463-minimum-total-distance-traveled](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2381-shifting-letters-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2953-count-complete-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2953-count-complete-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
