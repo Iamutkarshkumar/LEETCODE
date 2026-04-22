@@ -4,6 +4,7 @@ public:
         int count=0;
         for(int i=0;i<a.length();i++){
             if(a[i]!=b[i]) count++;
+            if(count>2) return count;
         }
         return count;
     }
