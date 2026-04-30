@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
