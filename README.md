@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3379-transformed-array) |
