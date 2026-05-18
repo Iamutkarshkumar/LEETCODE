@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
