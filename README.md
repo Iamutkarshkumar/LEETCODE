@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0174-dungeon-game) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0219-contains-duplicate-ii) |
