@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2169-simple-bank-system) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
