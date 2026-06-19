@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1732-find-the-highest-altitude](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1871-jump-game-vii) |
