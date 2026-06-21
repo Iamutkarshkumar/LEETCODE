@@ -1362,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1376,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
