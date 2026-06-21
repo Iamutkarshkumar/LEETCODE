@@ -1,45 +1,33 @@
 class Solution {
 public:
-    vector<int> topologicalOrder(unordered_map<int,vector<int>>& mp,int n,vector<int>& indegree){
-        vector<int> ans;
-        queue<int> que;
-        for(int i=0;i<n;i++){
-            if(indegree[i]==0){
-                que.push(i);
-            }
-        }
-
-        while(!que.empty()){
-            int u=que.front();
-            que.pop(); 
-            ans.push_back(u); 
-            for(auto v: mp[u]){
-                indegree[v]--;
-                if(indegree[v]==0){
-                  
-                    que.push(v);
-                }
-            }
-        }
-        if(n!=ans.size()) return {};
-        else{
-            return ans;
-        }  
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int,vector<int>> mp;
-        vector<int> indegree(numCourses,0);
-        for(auto ele: prerequisites){
-            int u=ele[1];
-            int v=ele[0];
-
-            // u------>v
-
-            mp[u].push_back(v);
-            indegree[v]++;
+        int n=numCourses;
+        vector<vector<int>> adj(n);
+        for(auto& ele : prerequisites){
+            int u=ele[1],v=ele[0];
+            adj[u].push_back(v);
         }
-        vector<int> ans;
-        ans=topologicalOrder(mp,numCourses,indegree);
-        return ans;
+
+        vector<int> inDegree(n,0);
+        for(vector<int>& vec:adj){
+            for(int& node: vec){
+                inDegree[node]++;
+            }
+        }
+        vector<int> order;
+        queue<int> q;
+        for(int i=0;i<n;i++){
+            if(inDegree[i]==0) q.push(i);
+        }
+        while(!q.empty()){
+            int u=q.front();q.pop();
+            order.push_back(u);
+            for(int& v: adj[u]){
+                inDegree[v]--;
+                if(inDegree[v]==0) q.push(v);
+            }
+        }
+        if(order.size()==n) return order;
+        return {};
     }
 };
