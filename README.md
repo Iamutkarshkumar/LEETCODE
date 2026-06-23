@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3863-power-grid-maintenance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Trie
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1383,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
