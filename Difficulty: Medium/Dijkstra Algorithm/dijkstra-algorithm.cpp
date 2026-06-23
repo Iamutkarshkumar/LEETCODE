@@ -1,28 +1,6 @@
 //using min heap 
 class Solution {
   public:
-    void Dijkstra(
-        vector<vector<pair<int,int>>>& adj,
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>& pq,
-        vector<int>& result,
-        int src
-    ){
-        result[src]=0;
-        pq.push({0,src});
-        while(!pq.empty()){
-            auto ele =pq.top();pq.pop();
-            int d=ele.first;
-            int u=ele.second;
-            for(auto ele: adj[u]){
-                int dist=ele.second;
-                int v=ele.first;
-                if(d+dist<result[v]){
-                    result[v]=d+dist;
-                    pq.push({d+dist,v});
-                }
-            }
-        }
-    }
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
         
         vector<vector<pair<int,int>>> adj(V);
@@ -34,7 +12,22 @@ class Solution {
         // pair -> dist , node
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         vector<int> result(V,INT_MAX);
-        Dijkstra(adj,pq,result,src);
+        result[src]=0;
+        pq.push({0,src});
+        while(!pq.empty()){
+            auto ele =pq.top();pq.pop();
+            int d=ele.first;
+            int u=ele.second;
+            for(auto ele: adj[u]){
+                int dist=ele.second;
+                int v=ele.first;
+                if(d>result[u]) continue;
+                if(d+dist<result[v]){
+                    result[v]=d+dist;
+                    pq.push({d+dist,v});
+                }
+            }
+        }
         return result;
     }
 };
