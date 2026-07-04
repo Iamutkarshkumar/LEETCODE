@@ -23,14 +23,9 @@ public:
         for(auto &ele: roads){
             if(find(ele[0])!=find(ele[1])) Union(ele[0],ele[1]);
         }
-        int parentOf1=find(1);
-        unordered_set<int> notInComponetOf1;
-        for(int i=1;i<=n;i++){
-            if(find(i)!=parentOf1) notInComponetOf1.insert(i);
-        }
         int minRoad=INT_MAX;
         for(auto &ele: roads){
-            if(notInComponetOf1.count(ele[0]) or notInComponetOf1.count(ele[1])) continue;
+            if(find(1)!=find(ele[0]) or find(1)!=find(ele[1])) continue;
             minRoad=min(minRoad,ele[2]);
         }
         return minRoad;
