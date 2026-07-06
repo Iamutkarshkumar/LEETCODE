@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1170-shortest-common-supersequence) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
