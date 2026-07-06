@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0326-power-of-three) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
