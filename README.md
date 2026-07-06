@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
