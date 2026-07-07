@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0162-find-peak-element) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
