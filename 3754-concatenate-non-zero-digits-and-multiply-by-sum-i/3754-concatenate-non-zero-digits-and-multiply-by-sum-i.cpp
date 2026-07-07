@@ -1,10 +1,9 @@
 class Solution {
 public:
-    using ll=long long;
     long long sumAndMultiply(int n) {
-        ll sum=0;
-        ll mul=1;
-        ll x=0;
+        int sum=0;
+        int mul=1;
+        long long x=0;
         while(n){
             int lastDigit=n%10;
             n/=10;
