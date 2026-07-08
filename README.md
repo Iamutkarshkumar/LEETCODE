@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
