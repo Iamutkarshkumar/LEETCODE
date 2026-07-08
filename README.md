@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
+| [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1094-car-pooling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
