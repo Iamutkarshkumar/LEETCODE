@@ -5,14 +5,9 @@ public:
         int i=0,stream=1;
         while(i<target.size() and stream<=n){
             ans.push_back("Push");
-            if(target[i]==stream){
-                i++;
-                stream++;
-            }
-            else{
-                ans.push_back("Pop");
-                stream++;
-            }
+            if(target[i]==stream) i++;
+            else ans.push_back("Pop");
+            stream++;
         }
         return ans;
     }
