@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0826-most-profit-assigning-work) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0739-daily-temperatures) |
