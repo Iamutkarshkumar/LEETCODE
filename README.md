@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3355-zero-array-transformation-i) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Indexed Tree
