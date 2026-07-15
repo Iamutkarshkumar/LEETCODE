@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1195,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
