@@ -1,4 +1,9 @@
-//TLE
+// Brute Force (Bitmask Enumeration)
+// Generate all 2^n subsets of strings.
+// Concatenate the strings of each subset and check if all characters are unique
+// using a hash set.
+// Time: O(2^n * L), where L is the total length of the concatenated string.
+// TLE because every subset rebuilds the string and rechecks uniqueness from scratch.
 // class Solution {
 // public:
 //     bool allUniqueChar(string& s){
