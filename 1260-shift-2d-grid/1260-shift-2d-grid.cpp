@@ -3,9 +3,9 @@ public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
         int r=grid.size(),c=grid[0].size();
         vector<int> v;
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                v.push_back(grid[i][j]);
+        for(auto &ele: grid){
+            for(auto &x: ele){
+                v.push_back(x);
             }
         }
         int n=v.size();
