@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1329,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1448,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
