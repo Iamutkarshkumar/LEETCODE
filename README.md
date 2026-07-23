@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
