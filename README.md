@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
