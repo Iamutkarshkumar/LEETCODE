@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0338-counting-bits) |
