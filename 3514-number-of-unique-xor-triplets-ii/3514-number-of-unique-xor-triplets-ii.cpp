@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         unordered_set<int> s1,s2;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+            for(int j=i;j<n;j++){
                 s1.insert(nums[i]^nums[j]);
             }
         }
