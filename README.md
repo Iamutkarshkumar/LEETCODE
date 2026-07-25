@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1294,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
