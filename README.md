@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1032-satisfiability-of-equality-equations) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0401-binary-watch) |
+| [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0868-binary-gap) |
+| [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
