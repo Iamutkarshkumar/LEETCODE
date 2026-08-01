@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0456-132-pattern](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0500-keyboard-row) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0542-01-matrix) |
@@ -1634,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
 |  |
