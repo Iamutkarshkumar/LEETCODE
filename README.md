@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -1643,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
 |  |
