@@ -12,7 +12,7 @@ public:
         while(!q.empty()){
             int u=q.front();q.pop();
             visited[u]=true;
-            for(auto v: adj[u]){
+            for(auto &v: adj[u]){
                 if(!visited[v]){
                     q.push(v);
                 }
@@ -21,13 +21,16 @@ public:
         bool flag=false;
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                for(int v: adj[i]){
-                    if(visited[v]==true) flag=true; 
+                for(int &v: adj[i]){
+                    if(visited[v]==true){
+                        flag=true; 
+                        break;
+                    } 
                 }
             }
         }
         vector<int> ans;
-        if(!flag){
+        if(!flag){ // if no node calls any node in visited component then we will remove all node visited during BFS call 
             for(int i=0;i<n;i++){
                 if(!visited[i]) ans.push_back(i);
             }
