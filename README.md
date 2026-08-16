@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1151,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2833-furthest-point-from-origin) |
@@ -1690,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
 |  |
@@ -1726,4 +1731,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0805-split-array-with-same-average) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
