@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
 | [1580-shuffle-the-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1423,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1694,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
