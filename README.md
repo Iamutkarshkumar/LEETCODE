@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
