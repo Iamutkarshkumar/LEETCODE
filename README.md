@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1280,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1524,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
