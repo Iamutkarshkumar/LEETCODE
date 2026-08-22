@@ -7,6 +7,7 @@ public:
             int x=temp%10;temp/=10;
             sum+=x;prod*=x;
         }
-        return (n%(sum+prod)==0);
+        if(n%(sum+prod)==0) return true;
+        return false;
     }
 };
