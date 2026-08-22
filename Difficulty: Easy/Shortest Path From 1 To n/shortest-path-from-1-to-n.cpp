@@ -1,18 +1,24 @@
 class Solution {
-    public:
-      int minimumStep(int n) {
-          int ans = 0;
-
-          // Work backwards from n down to 1
-          while (n > 1) {
-              if (n % 3 == 0) {
-                  n = n / 3;  // Reverse of j = 3 * i
-              } else {
-                  n = n - 1;  // Reverse of j = i + 1
-              }
-              ans++;
-          }
-
-          return ans;
-      }
-  };
+  public:
+    int minimumStep(int n) {
+        // code here
+        
+        int step=0;
+        int v=0;
+        
+       while(n>1){
+           
+           if(n%3==0){
+               
+               n=n/3;
+               step++;
+           }
+           else{
+               
+               n=n-1;
+               step++;
+           }
+       }
+       return step;
+    }
+};
