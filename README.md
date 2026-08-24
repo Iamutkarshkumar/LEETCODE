@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1861-rotating-the-box) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1943-describe-the-painting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1943-describe-the-painting) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -1448,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1713,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
@@ -1753,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1761,5 +1767,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
