@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4024-nearest-available-drone](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/4024-nearest-available-drone) |
 ## Greedy
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3827-count-monobit-integers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3827-count-monobit-integers) |
+| [4024-nearest-available-drone](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
