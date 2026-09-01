@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -1050,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
