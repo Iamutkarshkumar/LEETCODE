@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
