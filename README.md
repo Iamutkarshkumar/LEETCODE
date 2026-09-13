@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0805-split-array-with-same-average) |
 | [0826-most-profit-assigning-work](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0830-largest-triangle-area](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0874-walking-robot-simulation) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0835-image-overlap) |
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
