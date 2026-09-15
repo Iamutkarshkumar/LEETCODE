@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2833-furthest-point-from-origin) |
@@ -1512,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
