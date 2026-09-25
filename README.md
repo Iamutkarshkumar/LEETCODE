@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
@@ -1134,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1396,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1288-remove-covered-intervals) |
