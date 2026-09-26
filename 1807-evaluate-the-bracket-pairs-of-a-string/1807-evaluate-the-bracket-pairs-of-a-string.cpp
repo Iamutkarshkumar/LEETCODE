@@ -15,11 +15,8 @@ public:
                     temp.push_back(s[i]);
                     i++;
                 }
-                string key;
-                if(mp.count(temp)) key=mp[temp];
-                else key="?";
+                st += mp.count(temp) ? mp[temp] : "?";
                 
-                for(auto &ele: key) st.push_back(ele);
                 i++;
             }
             else{
