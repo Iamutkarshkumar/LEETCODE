@@ -4,7 +4,7 @@ public:
         unordered_map<string,string> mp;
         for(auto ele: knowledge) mp.insert({ele[0],ele[1]});
 
-        stack<char> st;
+        string st;
         int i=0;
         int n=s.length();
         while(i<n){
@@ -19,20 +19,15 @@ public:
                 if(mp.count(temp)) key=mp[temp];
                 else key="?";
                 
-                for(auto &ele: key) st.push(ele);
+                for(auto &ele: key) st.push_back(ele);
                 i++;
             }
             else{
-                st.push(s[i]);
+                st.push_back(s[i]);
                 i++;
             }
         }
-        string ans;
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
-        }
-        reverse(begin(ans),end(ans));
-        return ans;
+        
+        return st;
     }
 };
