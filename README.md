@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0796-rotate-string) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0901-online-stock-span) |
@@ -1515,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0799-champagne-tower) |
@@ -1879,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
