@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1580-shuffle-the-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1571,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1563-stone-game-v](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1621,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
@@ -1777,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1788,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -1798,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -1815,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1868,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1926,4 +1936,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
