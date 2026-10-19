@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1390,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
