@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4024-nearest-available-drone](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/4024-nearest-available-drone) |
 ## Greedy
 |  |
