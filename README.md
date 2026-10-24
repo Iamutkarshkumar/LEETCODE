@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
