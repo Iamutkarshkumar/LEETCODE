@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -1831,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
+| [1254-number-of-closed-islands](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
