@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
