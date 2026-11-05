@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1390-four-divisors) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-closest-subsequence-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1539-kth-missing-positive-number) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Iamutkarshkumar/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
